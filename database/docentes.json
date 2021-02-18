@@ -1,0 +1,57 @@
+{
+    "1": {
+        "nombre": "Jesús Israel Lara",
+        "age": "29",
+        "email": "jesus.is@gmail.com",
+        "grupos": [{
+            "0": {
+                "asignatura": "Sistemas Operativos",
+                "periodo": "2021 - 2021",
+                "departamento": "docente",
+                "clave": "306895",
+                "inicio": "25/08/2021",
+                "fin": "15/01/2021",
+                "tema": "Instalación y configuración",
+                "grupo": "A"
+            },
+            "1": {
+                "asignatura": "Base de datos",
+                "periodo": "2021 - 2021",
+                "departamento": "docente",
+                "clave": "713345",
+                "inicio": "25/08/2021",
+                "fin": "15/01/2021",
+                "tema": "SqlServer",
+                "grupo": "C"
+            }
+        }]
+    },
+    "2": {
+        "nombre": "Enrique Hernandez Jacome",
+        "age": "29",
+        "email": "enrique.he@gmail.com",
+        "grupos": [{
+            "0": {
+                "asignatura": "Biología",
+                "periodo": "2021 - 2021",
+                "departamento": "docente",
+                "clave": "456787",
+                "inicio": "25/08/2021",
+                "fin": "15/01/2021",
+                "tema": "Instalación y configuración",
+                "grupo": "B"
+            },
+            "1": {
+                "asignatura": "Matemáticas",
+                "periodo": "2021 - 2021",
+                "departamento": "docente",
+                "clave": "337865",
+                "inicio": "25/08/2021",
+                "fin": "15/01/2021",
+                "tema": "SqlServer",
+                "grupo": "D"
+            }
+        }]
+    }
+
+}

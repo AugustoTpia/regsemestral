@@ -1,0 +1,187 @@
+{
+    "306895": {
+        "A": {
+            "alumnos": [{
+                "1": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                },
+                "2": {
+                    "nombre": "José Francisco Perez",
+                    "calificacion": "5"
+                },
+                "3": {
+                    "nombre": "Ana Laura Martinez",
+                    "calificacion": "8"
+                },
+                "4": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "8"
+                },
+                "5": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "7"
+                },
+                "6": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "7": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "8": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "10"
+                },
+                "9": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "10": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                }
+            }]
+        }
+
+    },
+    "713345": {
+        "C": {
+            "alumnos": [{
+                "1": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                },
+                "2": {
+                    "nombre": "José Francisco Perez",
+                    "calificacion": "9"
+                },
+                "3": {
+                    "nombre": "Ana Laura Martinez",
+                    "calificacion": "8"
+                },
+                "4": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "8"
+                },
+                "5": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "7"
+                },
+                "6": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "7": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                },
+                "8": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "10"
+                },
+                "9": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "10": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                }
+            }]
+        }
+    },
+    "456787": {
+        "B": {
+            "alumnos": [{
+                "1": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                },
+                "2": {
+                    "nombre": "José Francisco Perez",
+                    "calificacion": "9"
+                },
+                "3": {
+                    "nombre": "Ana Laura Martinez",
+                    "calificacion": "8"
+                },
+                "4": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "8"
+                },
+                "5": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "7"
+                },
+                "6": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "7": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                },
+                "8": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "10"
+                },
+                "9": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "10": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                }
+            }]
+        }
+    },
+    "337865": {
+        "D": {
+            "alumnos": [{
+                "1": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                },
+                "2": {
+                    "nombre": "José Francisco Perez",
+                    "calificacion": "9"
+                },
+                "3": {
+                    "nombre": "Ana Laura Martinez",
+                    "calificacion": "8"
+                },
+                "4": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "8"
+                },
+                "5": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "7"
+                },
+                "6": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "7": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                },
+                "8": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "10"
+                },
+                "9": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "5"
+                },
+                "10": {
+                    "nombre": "Carlos Bautista Díaz",
+                    "calificacion": "9"
+                }
+            }]
+        }
+    }
+}
